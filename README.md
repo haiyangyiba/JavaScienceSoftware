@@ -6,7 +6,7 @@
 #### 2. 商业软件已科学列表
 - [PDFjet](#PDFjet)
 - [Aspose](#Aspose)
-- [222](#JasperReports)
+- [Aspose Total for JasperReports](#user-content-JasperReports)
 - [GroupDocs](#GroupDocs)
 - [Spire](#Spire)
 - [DsExcel](#DsExcel)
@@ -360,7 +360,7 @@ Aspose 是一家软件开发公司，提供众多屡获殊荣的 API，可供开
 科学难度：难度适中  
 
 
-### [Aspose2]([https://metrics.aspose.com/](https://products.aspose.com/total/jasperreports/))<a id="JasperReports"></a>
+### [Aspose Total for JasperReports](https://products.aspose.com/total/jasperreports/)<a id="JasperReports"></a>
 1. Aspose.Total for JasperReports 是功能丰富的 JasperReports 导出器套件，允许开发人员以 Microsoft Word、Excel、PowerPoint 和 PDF 格式导出报告。 Aspose.Total for JasperReports 系列中的导出器之一还提供了将条形码添加到导出文件的功能。
 2. Aspose.Total for JasperReports 是基于JasperReports的一款报表增强产品，涵盖了多种编程语言的实现，本次使用的是Java语言实践（无需修改jar的任何地方）。
 3. 组件的实践是以时下最新的各个版本，从网上下载的相关jar。
