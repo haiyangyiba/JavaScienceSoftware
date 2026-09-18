@@ -6,6 +6,7 @@
 #### 2. 商业软件已科学列表
 - [PDFjet](#PDFjet)
 - [Aspose](#Aspose)
+- [Total for JasperReports](#TotalforJasperReports)
 - [GroupDocs](#GroupDocs)
 - [Spire](#Spire)
 - [DsExcel](#DsExcel)
@@ -357,6 +358,91 @@ Aspose 是一家软件开发公司，提供众多屡获殊荣的 API，可供开
 
 使用限制：文档水印、文档页数量限制。一通全通，Java语言的组件共计22个，`所有的组件依赖的原始jar不需要任何修改`，仅需几行反射代码。  
 科学难度：难度适中  
+
+
+### [Aspose.Total for JasperReports](https://www.pdfreactor.com/)<a id="Aspose.TotalforJasperReports"></a>
+1. Aspose.Total for JasperReports 是功能丰富的 JasperReports 导出器套件，允许开发人员以 Microsoft Word、Excel、PowerPoint 和 PDF 格式导出报告。 Aspose.Total for JasperReports 系列中的导出器之一还提供了将条形码添加到导出文件的功能。
+2. Aspose.Total for JasperReports 是基于JasperReports的一款报表增强产品，涵盖了多种编程语言的实现，本次使用的是Java语言实践（无需修改jar的任何地方）。
+3. 组件的实践是以时下最新的各个版本，从网上下载的相关jar。
+4. 所有组件的科学使用的结果是无水印，无过期使用限制。
+
+<table>
+    <thead>
+        <tr>
+            <th>序号</th>
+            <th>模块名称</th>
+            <th>模块介绍</th>
+        </tr>
+    </thead>
+    <tbody>
+       <tr>
+         <th>1</th>
+         <td>Aspose.Words for JasperReports</td>
+         <td>
+            <ol>
+                <li>Aspose.Words for JasperReports 是市场上唯一将报告从 JasperReports 和 JasperServer 导出到 Microsoft Word 文档 (DOC)、Office Open XML (OOXML、DOCX)、富文本格式 (RTF)、OpenDocument 文本 (ODT)、Web 的解决方案页面 (HTML) 和纯文本 (TXT) 格式。</li>
+            </ol>
+         </td>
+       </tr>
+       <tr>
+         <th>1</th>
+         <td>Aspose.PDF for JasperReports</td>
+         <td>
+            <ol>
+                <li>Aspose.PDF for JasperReports 专门设计和开发用于将报告从 JasperReports 和 JasperServer 导出为可移植文档格式 (PDF) 及其 ISO 标准版本； PDF/A.大多数报告功能，如图表、表格和图像，都以最高精度转换为 PDF。</li>
+            </ol>
+         </td>
+       </tr>
+       <tr>
+         <th>1</th>
+         <td>Aspose.Cells for JasperReports</td>
+         <td>
+            <ol>
+                <li>Aspose.Cells for JasperReports 允许将报告从 JasperReports 和 JasperServer 导出为 Microsoft Excel 电子表格格式，包括 XLS、XLSX 和 SpreadsheetML。它还支持其他流行格式，例如 PDF、ODS、CSV 和制表符分隔。</li>
+            </ol>
+         </td>
+       </tr>
+       <tr>
+         <th>1</th>
+         <td>Aspose.Slides for JasperReports</td>
+         <td>
+            <ol>
+                <li>Aspose.Slides for JasperReports 专为需要从 Java 应用程序中将报表从 JasperReports 导出为 Microsoft PowerPoint 97 – 2003（PPT 和 PPS）和 Microsoft PowerPoint 2007-2013（PPTX 和 PPSX）演示格式的开发人员而设计。</li>
+            </ol>
+         </td>
+       </tr>
+       <tr>
+         <th>1</th>
+         <td>Aspose.Imaging for JasperReports</td>
+         <td>
+            <ol>
+                <li>Aspose.Imaging for JasperReports 提供了一种灵活的解决方案，可以将 JasperReports 导出为多种图像格式。可以轻松生成多页报告或批量导出。在批处理模式下。每个报告页面都将保存为单独的文档。</li>
+            </ol>
+         </td>
+       </tr>
+       <tr>
+         <th>1</th>
+         <td>Aspose.BarCode for JasperReports</td>
+         <td>
+            <ol>
+                <li>Aspose.BarCode for JasperReports 提供了一个独特而强大的解决方案来增强您的业务的实用性。它允许开发人员在 JasperReports 上生成和显示高质量的条形码标签。</li>
+            </ol>
+         </td>
+       </tr>
+       <tr>
+         <th>1</th>
+         <td>Aspose.CAD for JasperReports</td>
+         <td>
+            <ol>
+                <li>Aspose.CAD for JasperReports 提供了一个独特而强大的解决方案，可以将 JasperReports 导出为各种 CAD 和其他矢量格式。它可以轻松地生成多页报告或以批处理模式批量导出。每个报告页面都将保存为单独的文档。</li>
+            </ol>
+         </td>
+       </tr>
+    </tbody>
+</table>
+
+使用限制：文档水印、文档页数量限制  
+科学难度：难度一般，需要额外去了解JasperReports技术，存在额外学习成本
 
 ### [GroupDocs](https://metrics.groupdocs.com/)<a id="GroupDocs"></a>
 1. GroupDocs 是 Aspose Pty Ltd 继 .NET、Java 及其他平台文件格式 API 市场领导者 Aspose 之后推出的第二个网站。该网站于 2012 年首次上线。  
