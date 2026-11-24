@@ -14,6 +14,7 @@
 - [Bfo](#Bfo)
 - [PDFreactor](#PDFreactor)
 - [IDRSolutions](#IDRSolutions)
+- [Stimulsoft Reports.Java](#StimulsoftReports_Java)
 
 
 ## 1. 商业软件安全防护
@@ -968,6 +969,38 @@ Spire.Office for Java、Spire.Doc for Java、Spire.XLS for Java、Spire.Presenta
 使用限制：文档水印、试运行时间  
 科学难度：难度一般，部分软件需要改写jar文件中的class  
 
+### [Stimulsoft Reports.Java](https://www.stimulsoft.com/)<a id="StimulsoftReports_Java"></a>
+1. 全栈式的报表引擎，提供Java、.NET、Python、JavaScript、React、PHP、Angular 等原生组件与HTML5 Web组件。所有的组件依赖的jar均有官方原始，无需任何形式的修改。
+2. 集预览与设计于一体的易于集成的报表平台。
+3. 支持Swing、JSP、JSF、SpringBoot、Angular、React等相应技术集成。
+4. 所有组件的科学使用的结果是无水印，无过期使用限制。
+
+<table>
+    <thead>
+        <tr>
+            <th>序号</th>
+            <th>模块名称</th>
+            <th>模块介绍</th>
+        </tr>
+    </thead>
+    <tbody>
+       <tr>
+         <th>1</th>
+         <td>PDFreactor</td>
+         <td>
+            <ol>
+                <li>支持多种编程语言（包含Java），是一款集报表设计与预览的解决方案</li>
+                <li>支持Swing、JSP、JSF、SpringBoot、Angular、React等多种代码的实现</li>
+                <li>支持将报表转换为PDF、PNG、JPG、Excel、Word、PPT、PDF、CSV、Txt等多种文件格式的实现</li>
+                <li>版本 `2026.4`.3，发布于 2026.11</li>
+            </ol>
+         </td>
+       </tr>
+    </tbody>
+</table>
+
+使用限制：文档水印、预览水印、IDE控制台输出警告 
+科学难度：难度不大，因为原始jar文件没有加密和混淆  
 
 > 写在最后的话
 >
