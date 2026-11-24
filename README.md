@@ -969,7 +969,7 @@ Spire.Office for Java、Spire.Doc for Java、Spire.XLS for Java、Spire.Presenta
 使用限制：文档水印、试运行时间  
 科学难度：难度一般，部分软件需要改写jar文件中的class  
 
-### [Stimulsoft](https://www.stimulsoft.com/)<a id="Stimulsoft></a>
+### [Stimulsoft](https://www.stimulsoft.com/)<a id="Stimulsoft"></a>
 1. 全栈式的报表引擎，提供Java、.NET、Python、JavaScript、React、PHP、Angular 等原生组件与HTML5 Web组件。所有的组件依赖的jar均有官方原始，无需任何形式的修改。
 2. 集预览与设计于一体的易于集成的报表平台。
 3. 支持Swing、JSP、JSF、SpringBoot、Angular、React等相应技术集成。
